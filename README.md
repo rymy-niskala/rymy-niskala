@@ -6,7 +6,7 @@
 
 <img src="https://gifdb.com/images/high/l-death-note-death-stare-0rzkqdnsr6u5nbd1.webp" width="300">
 
-[GitHub](https://github.com/rymy-niskala) · [LinkedIn](https://www.linkedin.com/in/rymy-niskala-45079b345/) · [Email](mailto:rymyjohan.niskala@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rymy-niskala-45079b345/) · [Email](mailto:rymyjohan.niskala@gmail.com)
 
 </div>
 
