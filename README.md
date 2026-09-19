@@ -1,10 +1,14 @@
-# Rymy
+<div align="center">
 
-### Computer Science and Engineering Student
+# Rymy Niskala
+
+### Computer Science & Engineering Student
 
 <img src="https://gifdb.com/images/high/l-death-note-death-stare-0rzkqdnsr6u5nbd1.webp" width="300">
 
 [GitHub](https://github.com/rymy-niskala) · [LinkedIn](https://www.linkedin.com/in/rymy-niskala-45079b345/) · [Email](mailto:rymyjohan.niskala@gmail.com)
+
+</div>
 
 ---
 
@@ -33,7 +37,7 @@ CSE student at the University of Oulu, interested in building intelligent system
 ## Education
 
 **University of Oulu**  
-Computer Science and Engineering · **2026 – Present**
+Computer Science & Engineering · **2026 – Present**
 
 ---
 
